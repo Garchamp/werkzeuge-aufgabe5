@@ -1,0 +1,1 @@
+Auf der Befehlszeile geht man mit cd zu diesem Directory, kompiliert mit javac HelloWorld.java und führt das Programm mit java HelloWorld aus.
